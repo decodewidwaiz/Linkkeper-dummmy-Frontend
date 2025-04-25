@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <div className='w-full bg-white'>
       {/* Centered max-width container */}
-      <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col-reverse lg:flex-row items-center justify-between py-12 lg:h-[90vh]'>
+      <div className='max-w-7xl min-h-screen mx-auto px-4 sm:px-6 lg:px-8 flex flex-col-reverse lg:flex-row items-center justify-around py-12 lg:h-[90vh]'>
 
         {/* Text Content */}
         <div className='text-center lg:text-left max-w-xl'>
