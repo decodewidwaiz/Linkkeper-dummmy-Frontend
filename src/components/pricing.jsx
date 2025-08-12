@@ -1,3 +1,4 @@
+// pricing will be using clerk!
 import React from 'react';
 
 const Pricing = () => {
