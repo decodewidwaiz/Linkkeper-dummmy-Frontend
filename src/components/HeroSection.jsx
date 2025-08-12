@@ -19,7 +19,7 @@ const HeroSection = () => {
 
           <form className='flex flex-col sm:flex-row gap-4 sm:gap-2 justify-center lg:justify-start'>
             <button className='bg-black text-white px-6 py-2 rounded-lg'>
-              Get started
+              Get started!
             </button>
             <button className='bg-[#f3eefd] px-6 py-2 rounded-lg'>
               Learn more
