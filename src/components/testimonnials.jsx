@@ -18,7 +18,7 @@ const testimonials = () => {
       <p className="text-center text-gray-700 mb-8 max-w-xl">
         Here's what some of our users have to say about LinkKeeper.
       </p>
-      
+      /* instead of video testimonial, updation will be on testimonial component! */
       <div className="w-full max-w-7xl px-4">
         <video
           ref={videoRef}
